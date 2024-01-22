@@ -1,1 +1,1 @@
-# Email-validation-component
+# Email-Validation
